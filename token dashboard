@@ -1,0 +1,10 @@
+token-dashboard
+│
+├── package.json
+├── next.config.js
+├── pages
+│   ├── index.js
+│   └── api
+│       └── tokens.js
+└── styles
+    └── globals.css
